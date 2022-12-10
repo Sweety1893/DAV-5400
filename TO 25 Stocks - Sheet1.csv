@@ -1,0 +1,26 @@
+Largest S&P 500 Name,Ticker,Index constituents by weight,Sector,Rank
+Apple ,AAPL,6.99%,Information Technology,1
+Microsoft ,MSFT,5.63%,Information Technology,2
+Amazon ,AMZN,3.32%,Consumer Discretionary,3
+Tesla ,TSLA,1.96%,Consumer Discretionary,4
+Alphabet Class A ,GOOGL,1.93%,Communication Services,5
+Alphabet Class C ,GOOG,1.71%,Communication Services,6
+Berkshire Hathaway Class B ,BRK.B,1.59%,Financials,7
+UnitedHealth Group ,UNH,1.54%,Health Care,8
+Johnson & Johnson ,JNJ,1.39%,Health Care,9
+Exxon Mobil ,XOM,1.36%,Energy,10
+JPMorgan Chase ,JPM,1.01%,Financials,11
+Meta ,META,1.01%,Communication Services,12
+Visa Class A ,V,0.98%,Information Technology,13
+Procter & Gamble ,PG,0.97%,Consumer Staples,14
+NVIDIA ,NVDA,0.96%,Information Technology,15
+Home Depot ,HD,0.96%,Consumer Discretionary,16
+Chevron Corporation ,CVX,0.93%,Energy,17
+Eli Lilly ,LLY,0.84%,Health Care,18
+Mastercard Inc. Class A ,MA,0.82%,Information Technology,19
+AbbVie Inc. ,ABBV,0.81%,Health Care,20
+Pfizer ,PFE,0.77%,Health Care,21
+Merck ,MRK,0.76%,Health Care,22
+PepsiCo ,PEP,0.73%,Consumer Staples,23
+Bank of America ,BAC,0.71%,Financials,24
+Coca-Cola Company ,KO,0.70%,Consumer Staples,25
